@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intents Intensified</string>
+    <string name="open_website">Open Website</string>
+    <string name="open_location">Open Location</string>
+    <string name="share_this">Share This</string>
+</resources>
